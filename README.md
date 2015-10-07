@@ -12,8 +12,8 @@
 <h2>Platform</h2>
 <p>In the process of preparing this dataset, Open Data Portal of Howard County and the State of Maryland Open Data Portal are used.  In addition, an online database is used to query liquor licenses provided in the county.</p>
 <h2>Files</h2>
-<h3>Vehicle-collisions.xls </h3>
-<p>This file contains the number of vehicle collisions in Howard County with the location, time, days of the week and the road the collision happened.</p>
+<h4>Vehicle-collisions.xls </h4>
+<p>This file contains number of vehicle collisions in Howard County within specific location, time, days of the week and the road the collision happened.</p>
 <h4>Data Structure</h4>
 <p>CASE_NUMBER,	BARRACK	ACC_DATE,	ACC_TIME,	ACC_TIME_CODE,	DAY_OF_WEEK	ROAD,	INTERSECT_ROAD,	DIST_FROM_INTERSECT,	DIST_DIRECTION,	CITY_NAME,	COUNTY_CODE,	COUNTY_NAME	VEHICLE_COUNT,	PROP_DEST,	INJURY,	COLLISION_WITH_1,	COLLISION_WITH_2
 </p>
