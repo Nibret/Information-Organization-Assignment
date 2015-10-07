@@ -22,7 +22,7 @@
 <h4>Data Structure</h4>
 <p>Date_Reported,	Time_Reported,	Location,	Statistical_Reporting_Area,	Beat,	Computer_Aided_Dispatch_Event_Type
 </p>
-<h3>Liquor License.xls</h3>
+<h4>Liquor-License.xls</h4>
 <p>Name and location of business that are licensed for alcohol and tobacco in Howard County</p>
 <h4>Data Structure</h4>
 <p>TaxRegNo	CorporateName	TradeAsName	StreetAddr1	StreetAddr2	City	County	ZipCode	Phone	LicenseClass	Licensee1	Licensee2	Licensee3	LastUpdate	Status
