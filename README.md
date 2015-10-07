@@ -6,7 +6,7 @@
 <h2>Description</h2>
 <p>This dataset is the result of the combination of three other datasets; Howard County Police Call For Service, Vehicle Collision in Howard County and Active License of Alcohol and Tobacco Tax Payers in Howard County.  To answer the research question, the original datasets are cleaned up to reflect records of Howard County only.</p>
 <h2>File Name</h2>
-<p>Liquor-License-Violence-Vehicle-Accident.xls</p>
+<p>LiquorLicense-Violence-Vehicle-Accident.xls</p>
 <h2>Size</h2>
 <p>1,236KB</p>
 <h2>Platform</h2>
@@ -17,7 +17,7 @@
 <h4>Data Structure</h4>
 <p>CASE_NUMBER,	BARRACK	ACC_DATE,	ACC_TIME,	ACC_TIME_CODE,	DAY_OF_WEEK	ROAD,	INTERSECT_ROAD,	DIST_FROM_INTERSECT,	DIST_DIRECTION,	CITY_NAME,	COUNTY_CODE,	COUNTY_NAME	VEHICLE_COUNT,	PROP_DEST,	INJURY,	COLLISION_WITH_1,	COLLISION_WITH_2
 </p>
-<h3>Police-Dept-Call-liquor-Violation.xls</h3>
+<h4>Police-Dept-Call-For-Liquor-Violation.xls</h4>
 <p>This file is about the service call made to police due to liquor violation and intoxication.</p>
 <h4>Data Structure</h4>
 <p>Date_Reported,	Time_Reported,	Location,	Statistical_Reporting_Area,	Beat,	Computer_Aided_Dispatch_Event_Type
