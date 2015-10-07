@@ -1,7 +1,7 @@
 <h1>INFM600 - Information Organization Assignment</h1>
 <h2>Dataset Title</h2>
 <p>Alcohol and Vehicle Collision Over Howard County, MD</p>
-<h2>Version 2.1</h2>
+<h2>Version</h2>
 <p>Version 1.0 (October 2015)</p>
 <h2>Description</h2>
 <p>This dataset is the result of the combination of three other datasets; Howard County Police Call for service, Vehicle collision in Howard County and active license of alcohol and tobacco tax payers in the county.  To answer the research question, the original datasets are cleaned up so that to reflect records of Howard County.</p>
