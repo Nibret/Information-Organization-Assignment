@@ -4,9 +4,9 @@
 <h2>Version</h2>
 <p>Version 1.0 (October 2015)</p>
 <h2>Description</h2>
-<p>This dataset is the result of the combination of three other datasets; Howard County Police Call for service, Vehicle collision in Howard County and active license of alcohol and tobacco tax payers in the county.  To answer the research question, the original datasets are cleaned up so that to reflect records of Howard County.</p>
+<p>This dataset is the result of the combination of three other datasets; Howard County Police Call For Service, Vehicle Collision in Howard County and Active License of Alcohol and Tobacco Tax Payers in Howard County.  To answer the research question, the original datasets are cleaned up to reflect records of Howard County only.</p>
 <h2>File Name</h2>
-<p>Problems related to HC Liquor Licensing.xls</p>
+<p>Liquor-License-Violence-Vehicle-Accident.xls</p>
 <h2>Size</h2>
 <p>1,236KB</p>
 <h2>Platform</h2>
