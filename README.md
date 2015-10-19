@@ -25,7 +25,7 @@
 <h5>Liquor-License.xls</h5>
 <p>Name and location of business that are licensed for alcohol and tobacco in Howard County</p>
 <h5>Data Structure</h5>
-<p>TaxRegNo	CorporateName	TradeAsName	StreetAddr1	StreetAddr2	City	County	ZipCode	Phone	LicenseClass	Licensee1	Licensee2	Licensee3	LastUpdate	Status
+<p>TaxRegNo,	CorporateName,	TradeAsName,	StreetAddr1,	StreetAddr2,	City,	County,	ZipCode,	Phone,	LicenseClass,	Licensee1,	Licensee2,	Licensee3,	LastUpdate,	Status
 </p>
 <h2>Proposed Research Question</h2>
 <p>Does issuing more liquor license aggravate violence and vehicle accident in Howard County MD?  </p>
@@ -33,6 +33,7 @@
 <p>Nibret Daba</p>
 <h2>License</h2>
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+<p>The three datasets where this dataset is derived from are licensed for public use.</p>
 <p>
 <h2>Contact Information</h2>
 <p>nibretd@hotmail.com or ndaba@umd.edu</p>
