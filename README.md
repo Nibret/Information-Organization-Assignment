@@ -43,7 +43,7 @@
 
 <h2>Citation</h2>
 <p>This dataset should be cited as</p>
-<p>Daba, Nibret(2015).<i>Liquor License, Vehicle Collision and Police Calls Over Howard County, MD.</i>[Data File].Unpublished raw dataset. Available on GitHub: https://github.com/Nibret/akintest</p>
+<p>Daba, Nibret(2015).<i>Liquor License, Vehicle Collision and Police Calls Over Howard County, MD.</i>[Data File].Available on GitHub: https://github.com/Nibret/akintest</p>
 
 <h2>Contact Information</h2>
 <p>nibretd@hotmail.com or ndaba@umd.edu</p>
