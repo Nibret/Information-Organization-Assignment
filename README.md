@@ -34,6 +34,16 @@
 <h2>License</h2>
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 <p>The three datasets where this dataset is derived from are licensed for public use.</p>
-<p>
+
+<h2>References</h2>
+<p>Please cite the original datasets while using this dataset</p>
+<p>Howard County Police Department Call for Service: 2014 that is located at https://opendata.howardcountymd.gov/Public-Safety/Howard-County-Police-Department-Call-For-Service-2/qccx-65fg</p>
+<p>2012 Vehicle Collisions Investigated by State Police that is located at https://data.maryland.gov/Public-Safety/2012-Vehicle-Collisions-Investigated-by-State-Poli/pdvh-tf2u</p>
+<p>Alcohol and Tobacco Tax, Alcoholic Beverage Retail Licenses [Database Record] located at https://interactive.marylandtaxes.com/webapps/licprt/user/ilu_QueryRetailer.asp</p>
+
+<h2>Citation</h2>
+<p>This dataset should be cited as</p>
+<p>Daba, Nibret(2015).<i>Liquor License, Vehicle Collision and Police Calls Over Howard County, MD.</i>[Data File].Unpublished raw dataset. Available on GitHub: https://github.com/Nibret/akintest</p>
+
 <h2>Contact Information</h2>
 <p>nibretd@hotmail.com or ndaba@umd.edu</p>
