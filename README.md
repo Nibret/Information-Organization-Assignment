@@ -42,7 +42,7 @@
 <p>Alcohol and Tobacco Tax, Alcoholic Beverage Retail Licenses [Database Record] located at https://interactive.marylandtaxes.com/webapps/licprt/user/ilu_QueryRetailer.asp</p>
 
 <h2>Citation</h2>
-<p>This dataset should be cited as</p>
+<p>This dataset should be cited as:</p>
 <p>Daba, Nibret(2015).<i>Liquor License, Vehicle Collision and Police Calls Over Howard County, MD.</i>[Data File].Available on GitHub: https://github.com/Nibret/akintest</p>
 
 <h2>Contact Information</h2>
